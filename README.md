@@ -1,2 +1,3 @@
 # Image_Stiching
-stiching of multiple image 
+stiching of two image
+stiching of multiple images 
